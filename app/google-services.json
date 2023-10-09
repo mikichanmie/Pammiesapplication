@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942096541698",
+    "project_id": "login-register-cd6a3",
+    "storage_bucket": "login-register-cd6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942096541698:android:83b3ab86b4000bb41b9f1b",
+        "android_client_info": {
+          "package_name": "com.example.myheart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942096541698-5ltnn2jh6rqj87bkhqqovh7be1k5cj1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYoeVwQ-qzW58CZZluNarl6f2Dux1Gpso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942096541698-5ltnn2jh6rqj87bkhqqovh7be1k5cj1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
